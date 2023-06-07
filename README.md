@@ -20,11 +20,17 @@
 
 <b>My pride and joy project:</b>
 
-⚡
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+
 <a href="https://github.com/Elyahu41/RabbiOvadiahYosefCalendarApp">Rabbi Ovadiah Yosef Calendar App</a>
-⚡
+
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+
+<a href="https://github.com/Elyahu41/RabbiOvadiahYosefCalendarIOSApp">Rabbi Ovadiah Yosef Calendar App (IOS)</a>
 
 <a href="https://github.com/Elyahu41/Elyahu41.github.io/tree/master/RabbiOvadiahYosefCalendar">Rabbi Ovadiah Yosef Calendar Website</a>
+
+<a href="https://github.com/Elyahu41/RabbiOvadiahYosefZmanimApps">All Rabbi Ovadiah Yosef Calendar applications in one repo</a>
 
 <a href="https://github.com/Elyahu41/zmanim">KosherJava</a>
 
