@@ -4,6 +4,8 @@
 
 <a href="https://github.com/Elyahu41/Terasology/tree/develop">Terasology</a>
 
+<a href="https://github.com/Elyahu41/MinesweeperMVC">Minesweeper Game in the browser with Razor/MVC</a>
+
 <a href="https://github.com/Elyahu41/FiveAds">Five Ads</a>
 
 <a href="https://github.com/Elyahu41/VoiceActivatedPersonalAssistant">Voice Activated Personal Assistant</a>
