@@ -20,9 +20,7 @@
 ⚡<a href="https://github.com/Elyahu41/RabbiOvadiahYosefCalendarApp">Rabbi Ovadiah Yosef Calendar App (<img style="height: 18px;" src="https://cdn-icons-png.flaticon.com/512/226/226770.png" />)</a>⚡<br>
 ⚡<a href="https://github.com/Elyahu41/RabbiOvadiahYosefCalendarIOSApp">Rabbi Ovadiah Yosef Calendar App (<img style="height: 18px;" src="https://www.freeiconspng.com/thumbs/ios-png/os7-style-metro-ui-icon-19.png" />)</a>⚡<br>
 <a href="https://github.com/Elyahu41/royzmanimwebsite">royzmanim Website</a><br>
-<a href="https://github.com/Elyahu41/Elyahu41.github.io/tree/master/RabbiOvadiahYosefCalendar">Rabbi Ovadiah Yosef Calendar (unofficial) Website</a><br>
 <a href="https://github.com/Elyahu41/zmanim">KosherJava</a><br>
-<a href="https://github.com/Elyahu41/KosherCocoa">KosherCocoa</a><br>
 <a href="https://github.com/Elyahu41/Rabbeinu-Tam-IOS-App">Rabbeinu Tam IOS App</a><br>
 <a href="https://github.com/Elyahu41/Rabbeinu-Tam-Android-App">Rabbeinu Tam Android App</a><br>
 
