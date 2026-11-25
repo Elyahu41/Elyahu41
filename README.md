@@ -5,7 +5,6 @@
 <div style="border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
     <a href="https://github.com/Elyahu41/Terasology/tree/develop">Terasology</a> - A Java game similar to minecraft that is in the works!<br>
     <a href="https://github.com/Elyahu41/MinesweeperMVC">Minesweeper built with Razor/MVC</a> - A fun Minesweeper game developed for the browser using Razor/MVC.<br>
-    <a href="https://github.com/Elyahu41/FiveAds">Five Ads</a> - A project that experiments with playing minigames with ads for prizes!<br>
     <a href="https://github.com/Elyahu41/VoiceActivatedPersonalAssistant">Voice Activated Personal Assistant</a> - A voice-activated customizable personal assistant.<br>
     <a href="https://github.com/Elyahu41/Tic-Tac-Toe">Tic Tac Toe GUI with Python</a> - Have fun with this Tic Tac Toe GUI developed in Python!<br>
     <a href="https://github.com/Elyahu41/AndroidFlashlightApp">Android Flashlight App</a> - A simple app for your Android device to use the flashlight.<br>
